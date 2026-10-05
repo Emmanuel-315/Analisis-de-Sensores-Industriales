@@ -18,7 +18,7 @@ Los valores citados en este informe provienen de la ejecución de
 
 ---
 
-## 6. Tipos de datos y procesamiento tradicional
+## 6. Tipos de datos y procesamiento
 
 | Elemento | Tipo de dato |
 |---|---|
@@ -168,6 +168,4 @@ que apuntaría a un equipo puntual con problema) o están distribuidas
 entre muchos sensores de la planta (lo que apuntaría a un factor
 ambiental, como ventilación o temperatura ambiente de esa planta).
 
-> Nota: una lectura por encima del umbral es una alerta definida para
-> este ejercicio; por sí sola no demuestra que una máquina vaya a
-> fallar, solo señala una condición que amerita revisión.
+
