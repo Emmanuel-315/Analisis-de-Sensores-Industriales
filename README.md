@@ -15,7 +15,7 @@ clonarlo, instalar las dependencias y obtener los mismos resultados.
 - **Sensores:** 40, distribuidos en 4 plantas (`Planta_1` a `Planta_4`)
 - **Columnas:** `id_registro`, `fecha_hora`, `id_sensor`, `planta`,
   `temperatura_c`, `vibracion_mm_s`
-- ⚠️ **Los datos son simulados**, generados con fines didácticos para
+- **Los datos son simulados**, generados con fines didácticos para
   este ejercicio. No corresponden a mediciones reales de ninguna
   empresa.
 - El umbral de alerta de temperatura (> 85 °C) es una regla definida
