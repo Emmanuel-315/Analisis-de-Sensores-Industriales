@@ -1,4 +1,4 @@
-id_registro,fecha_hora,id_sensor,planta,temperatura_c,vibracion_mm_s
+id_registro,fecha_hora,id_sensor,planta,temperatura_c, vibracion_mm_s
 7,01/09/26 00:00,S007,Planta_1,97.65,5.45
 21,01/09/26 00:00,S021,Planta_3,86.35,2.87
 40,01/09/26 00:00,S040,Planta_4,98.48,4.11
