@@ -81,6 +81,6 @@ El script:
 
 ## Informe
 
-Las respuestas sobre las 5 V, tipos de datos, batch/streaming,
+El informe con la descritcion de las 5 V, tipos de datos, batch/streaming,
 arquitecturas Lambda/Kappa y analítica descriptiva/predictiva/
 prescriptiva están en [`informe.md`](informe.md).
