@@ -5,7 +5,6 @@ Lee data/sensores_industriales.csv, calcula estadísticas sobre
 temperatura por planta y sensor, identifica alertas (temperatura
 > 85 °C) y exporta las lecturas en alerta a resultados/alertas.csv.
 
-Los datos son SIMULADOS (dataset generado para fines didácticos).
 """
 
 import os
