@@ -1,8 +1,6 @@
 # Informe — Aplicación al caso de Big Data
 
 Proyecto: análisis de sensores industriales (datos simulados).
-Los valores citados en este informe provienen de la ejecución de
-`analisis.py` sobre `data/sensores_industriales.csv`.
 
 ---
 
